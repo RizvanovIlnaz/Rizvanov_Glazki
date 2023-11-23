@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ризванов_Глазки"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" FontFamily="Century Gothic" Icon="Resources/logo.png">
+        Title="Ризванов Глазки" Height="450" Width="800" FontFamily="Century Gothic" Icon="Resources/logo.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="75"/>
@@ -13,9 +13,8 @@
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
         <Image Source="/Resources/logo.png" HorizontalAlignment="Left"></Image>
-        <TextBlock Text="Header" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <TextBlock Text="Агенты компании" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         <Frame Grid.Row="1" Name="MainFrame" ContentRendered="MainFrame_ContentRendered" NavigationUIVisibility="Hidden"></Frame>
-        <Button Content="Back" Name="BtnBack" Width="175" Height="30" HorizontalAlignment="Right" Margin="5"
-                Click="BtnBack_Click"></Button>
+        <Button Content="Назад" Name="BtnBack" HorizontalAlignment="Right" Click="BtnBack_Click"></Button>
     </Grid>
 </Window>
