@@ -1,0 +1,111 @@
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.AssemblyReference.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.SuggestedBindingRedirects.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\MainWindow.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\App.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.lref
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\MainWindow.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.g.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.GenerateResource.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.pdb
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AddEditPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AgentPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AddEditPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AgentPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\App.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe.config
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.pdb
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.Properties.Resources.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CoreCompileInputs.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CopyComplete
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_Content.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe.config
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.pdb
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.AssemblyReference.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.SuggestedBindingRedirects.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AddEditPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AgentPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\MainWindow.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\App.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_Content.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.lref
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\App.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AddEditPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\AgentPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\MainWindow.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.g.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.Properties.Resources.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.GenerateResource.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CoreCompileInputs.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CopyComplete
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Ризванов_Глазки\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.pdb
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe.config
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.pdb
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.AssemblyReference.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.SuggestedBindingRedirects.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AddEditPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AgentPage.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\MainWindow.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\App.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_Content.g.cs
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.lref
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\App.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AddEditPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AgentPage.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\MainWindow.baml
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.g.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.Properties.Resources.resources
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.GenerateResource.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CoreCompileInputs.cache
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CopyComplete
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.exe
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.pdb
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe.config
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.exe
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\Ризванов_Глазки.pdb
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.dll
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.xml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.AssemblyReference.cache
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AddEditPage.g.cs
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AgentPage.g.cs
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\MainWindow.g.cs
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\App.g.cs
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_Content.g.cs
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.cache
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки_MarkupCompile.lref
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\App.baml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AddEditPage.baml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\AgentPage.baml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\MainWindow.baml
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.g.resources
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.Properties.Resources.resources
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.GenerateResource.cache
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CoreCompileInputs.cache
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.csproj.CopyComplete
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.exe
+D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\Ризванов_Глазки.pdb
