@@ -19,9 +19,8 @@ namespace Ризванов_Глазки
 
         public static Ризванов_ГлазкиEntities GetContext()
         {
-            if (_context == null)
-                _context = new Ризванов_ГлазкиEntities();
-
+            if(_context == null )
+                _context=new Ризванов_ГлазкиEntities();
             return _context;
         }
         public Ризванов_ГлазкиEntities()

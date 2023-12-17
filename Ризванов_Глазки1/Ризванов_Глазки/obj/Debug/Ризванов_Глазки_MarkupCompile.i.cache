@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\obj\Debug\
 Ризванов_Глазки
 none
 false
 DEBUG;TRACE
-D:\3 курс\Ризванов\Ризванов_Глазки1\Ризванов_Глазки\App.xaml
-3547723036
-2-534537030
-26633149234
-19982488717
-AddEditPage.xaml;AgentPage.xaml;MainWindow.xaml;
+C:\Users\rizil\OneDrive\Документы\Тех\Разработка ПМ\Ризванов_Глазки1\Ризванов_Глазки\App.xaml
+6-583497075
+2-1670137643
+29959295084
+19-915311622
+AddEditPage.xaml;AddSalesPage.xaml;AgentPage.xaml;AgentSale.xaml;MainWindow.xaml;PriorityEditWindow.xaml;
 
-True
+False
 

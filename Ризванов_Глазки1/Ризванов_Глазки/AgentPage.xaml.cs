@@ -248,5 +248,47 @@ namespace Ризванов_Глазки
                 Manager.MainFarame.Navigate(new AddEditPage(null));
             }
         }
+
+        private void AddButton_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AgentListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (AgentListView.SelectedItems.Count > 1)
+            {
+                PriorityEdit.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                PriorityEdit.Visibility = Visibility.Hidden;
+            }
+        }
+
+        private void PriorityEdit_Click(object sender, RoutedEventArgs e)
+        {
+            PriorityEditWindow window = new PriorityEditWindow();
+            window.ShowDialog();
+            if (string.IsNullOrWhiteSpace(window.PriorityText.Text))
+            {
+                return;
+            }
+            foreach (Agent AgentLV in AgentListView.SelectedItems)
+            {
+                AgentLV.Priority = Convert.ToInt32(window.PriorityText.Text);
+            }
+            try
+            {
+                Ризванов_ГлазкиEntities.GetContext().SaveChanges();
+                MessageBox.Show("Информация сохранена");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message.ToString());
+            }
+
+            UpdateAgents();
+        }
     }
 }

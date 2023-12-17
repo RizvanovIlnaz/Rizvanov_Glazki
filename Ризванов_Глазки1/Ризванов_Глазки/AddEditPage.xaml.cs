@@ -32,6 +32,7 @@ namespace Ризванов_Глазки
             {
                 check = true;
                 currentAgent = SelectedAgent;
+                ComboType.SelectedIndex = currentAgent.AgentTypeID - 1;
             }
 
             DataContext = currentAgent;
@@ -134,6 +135,11 @@ namespace Ризванов_Глазки
                     }
                 }
             }
+        }
+
+        private void SaleBtn_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFarame.Navigate(new AgentSale(currentAgent));
         }
     }
 }

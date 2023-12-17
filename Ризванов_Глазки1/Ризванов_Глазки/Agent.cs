@@ -11,7 +11,9 @@ namespace Ризванов_Глазки
 {
     using System;
     using System.Collections.Generic;
-    
+
+    using System.Linq;
+    using System.Windows.Media;
     public partial class Agent
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -33,8 +35,10 @@ namespace Ризванов_Глазки
         public string DirectorName { get; set; }
         public string INN { get; set; }
         public string KPP { get; set; }
+
     
         public virtual AgentType AgentType { get; set; }
+        
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<AgentPriorityHistory> AgentPriorityHistory { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
@@ -49,5 +53,90 @@ namespace Ризванов_Глазки
                 return AgentType.Title;
             }
         }
+
+        public int AgentProdCount
+        {
+            get
+            {
+                int count = 0;
+                var context =Ризванов_ГлазкиEntities.GetContext().ProductSale.Where(p => p.AgentID == ID).ToList();
+                foreach (var productSale in context)
+                {
+                    count += productSale.ProductCount;
+                }
+
+                return count;
+            }
+        }
+
+        public double AgentProdCost()
+        {
+            double summa = 0;
+            var context = Ризванов_ГлазкиEntities.GetContext().ProductSale.Where(p => p.AgentID == ID).ToList();
+            var prod = Ризванов_ГлазкиEntities.GetContext().Product.ToList();
+            foreach (var productSale in context)
+            {
+                foreach (var productCount in prod)
+                {
+                    if (productSale.ProductID == productCount.ID)
+                    {
+                        summa += Convert.ToDouble(productSale.ProductCount) * Convert.ToDouble(productCount.MinCostForAgent);
+                    }
+                }
+
+            }
+
+            return summa * 500;
+
+        }
+
+        public int getDiscount()
+        {
+            double summa = AgentProdCost();
+            if (summa < 10000)
+            {
+                return 0;
+            }
+            else if (summa >= 10000 && summa < 50000)
+            {
+                return 5;
+            }
+            else if (summa >= 50000 && summa < 150000)
+            {
+                return 10;
+            }
+            else if (summa >= 150000 && summa < 500000)
+            {
+                return 20;
+            }
+            else
+            {
+                return 25;
+            }
+        }
+
+        public string Discount
+        {
+            get
+            {
+                return getDiscount().ToString() + '%';
+            }
+        }
+
+        public SolidColorBrush FonStyle
+        {
+            get
+            {
+                if (getDiscount() >= 25)
+                {
+                    return (SolidColorBrush)new BrushConverter().ConvertFromString("LightGreen");
+                }
+                else
+                {
+                    return (SolidColorBrush)new BrushConverter().ConvertFromString("White");
+                }
+            }
+        }
+
     }
 }

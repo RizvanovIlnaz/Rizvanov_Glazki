@@ -65,11 +65,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AddSalesPage.xaml.cs">
+      <DependentUpon>AddSalesPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Agent.cs">
       <DependentUpon>RizvanovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="AgentPriorityHistory.cs">
       <DependentUpon>RizvanovModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AgentSale.xaml.cs">
+      <DependentUpon>AgentSale.xaml</DependentUpon>
     </Compile>
     <Compile Include="AgentType.cs">
       <DependentUpon>RizvanovModel.tt</DependentUpon>
@@ -82,6 +88,9 @@
     </Compile>
     <Compile Include="MaterialType.cs">
       <DependentUpon>RizvanovModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PriorityEditWindow.xaml.cs">
+      <DependentUpon>PriorityEditWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Product.cs">
       <DependentUpon>RizvanovModel.tt</DependentUpon>
@@ -123,7 +132,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="AddSalesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="AgentPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AgentSale.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -146,6 +163,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="PriorityEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Manager.cs" />
